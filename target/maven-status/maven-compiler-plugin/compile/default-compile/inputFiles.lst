@@ -1,0 +1,15 @@
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/UserManagement.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/controller/UserManagementController.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/dto/SearchProfileRequest.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/dto/UserManagementInputRequest.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/dto/UserManagementResponse.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/entity/UserAddress.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/entity/UserEmail.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/entity/UserInformation.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/entity/UserPhone.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/repository/EmailManagementRepository.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/repository/UserManagementRepository.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/service/UserManagementService.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/utility/UserManagementCRUDException.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/utility/UserManagementConstants.java
+/Volumes/SwatiWorkspace/intellijworkspace/assignment/src/main/java/com/usermanagement/assignment/utility/UserManagementUtilityHelper.java

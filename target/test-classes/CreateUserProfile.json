@@ -1,0 +1,35 @@
+{
+  "firstName" : "Swati8",
+  "lastName" : "Madaan8",
+  "title" : "Ms.",
+  "dob" : "1989-07-21",
+  "userAddresses" : [
+    {
+      "addressType" : "Home",
+      "addressLineOne" : "Line 4",
+      "addressLineTwo" : "Line 2",
+      "city" : "Birmingham",
+      "county" : "West Midlands",
+      "postcode" : "B16 8FU"
+    },{
+      "addressType" : "Office",
+      "addressLineOne" : "Line 1",
+      "addressLineTwo" : "Line 2",
+      "city" : "Birmingham",
+      "county" : "West Midlands",
+      "postcode" : "B16 8FU"
+    }
+  ],
+  "emailList" : [
+    {
+      "emailAddress" : "swati.madaan8@gs.com"
+    }
+
+  ],
+  "phoneNumbers" : [
+    {
+      "phoneType" : "1234567894",
+      "phoneNumber" : "9999999999"
+    }
+  ]
+}

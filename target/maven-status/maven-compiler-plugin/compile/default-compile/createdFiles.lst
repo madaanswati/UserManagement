@@ -1,0 +1,15 @@
+com/usermanagement/assignment/utility/UserManagementConstants.class
+com/usermanagement/assignment/utility/UserManagementUtilityHelper.class
+com/usermanagement/assignment/dto/UserManagementInputRequest.class
+com/usermanagement/assignment/entity/UserAddress.class
+com/usermanagement/assignment/repository/UserManagementRepository.class
+com/usermanagement/assignment/service/UserManagementService.class
+com/usermanagement/assignment/entity/UserEmail.class
+com/usermanagement/assignment/repository/EmailManagementRepository.class
+com/usermanagement/assignment/dto/UserManagementResponse.class
+com/usermanagement/assignment/dto/SearchProfileRequest.class
+com/usermanagement/assignment/UserManagement.class
+com/usermanagement/assignment/controller/UserManagementController.class
+com/usermanagement/assignment/utility/UserManagementCRUDException.class
+com/usermanagement/assignment/entity/UserInformation.class
+com/usermanagement/assignment/entity/UserPhone.class
